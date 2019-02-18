@@ -1,5 +1,5 @@
 # assignment1.2
-# Assignment-2.1
+
 
 1.What are the different methods to call a function in R?
 answer:
